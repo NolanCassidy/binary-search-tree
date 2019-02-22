@@ -1,0 +1,63 @@
+62
+inprint
+remove 2
+max
+search 5
+insert 1
+insert 2
+search 1
+search 2
+insert 3
+inprint
+insert 10
+insert 5
+inprint
+preprint
+postprint
+search 5
+remove 2
+inprint
+max
+min
+insert -4
+insert 0
+insert -10
+insert 123
+inprint
+preprint
+max
+min
+search 0
+search 10
+search -10
+remove 1
+postprint
+max
+min
+remove 5
+search 5
+insert 5
+search 5
+preprint
+inprint
+postprint
+remove 2
+remove 5
+remove 1
+remove 2
+remove 3
+remove 10
+remove 5
+remove -4
+remove 0
+remove -10
+remove 123
+remove 100
+preprint
+search 2
+insert 1
+insert 2
+insert 3
+postprint
+preprint
+inprint

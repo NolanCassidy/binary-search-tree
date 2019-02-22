@@ -1,0 +1,39 @@
+Empty
+TreeError
+Empty
+NotFound
+Found
+Found
+1 2 3
+1 2 3 5 10
+1 2 3 10 5
+5 10 3 2 1
+Found
+1 3 5 10
+10
+1
+-10 -4 0 1 3 5 10 123
+1 -4 -10 0 3 10 5 123
+123
+-10
+Found
+Found
+Found
+-10 0 -4 5 123 10 3
+123
+-10
+NotFound
+Found
+3 -4 -10 0 10 5 123
+-10 -4 0 3 5 10 123
+-10 0 -4 5 123 10 3
+TreeError
+TreeError
+TreeError
+TreeError
+TreeError
+Empty
+NotFound
+3 2 1
+1 2 3
+1 2 3
